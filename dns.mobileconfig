@@ -10,20 +10,18 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://dns.nextdns.io/15e3b6</string>
+				<string>https://dns.nextdns.io/4c9e16</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Chức năng:
-            ✔ Lên Locket Gold
-            ✔ Được Phát Hành Bởi NGÔ TRÍ HÀ 
-            ✔ Chặn Ads
-            _NGÔ TRÍ HÀ _</string>
+			<string>💛 Nâng LOCKET GOLD
+             
+</string>
 			<key>PayloadDisplayName</key>
-			<string>NGÔ TRÍ HÀ  - Locket </string>
+			<string>NGÔ TRÍ HÀ - Locket Gold</string>
 			<key>PayloadIdentifier</key>
-			<string>com.devcaovannam.controld.dnsprofile.15e3b6</string>
+			<string>com.camsitup.controld.dnsprofile</string>
 			<key>PayloadOrganization</key>
-			<string>Block Ads</string>
+			<string>LOCKET GOLD</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -31,43 +29,16 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerURL</key>
-				<string>https://dns.nextdns.io/8a922e</string>
-			</dict>
-			<key>PayloadDescription</key>
-			<string>Chức năng:
-            ✔ Chặn mất Locket Gold
-            _NGÔ TRÍ HÀ _</string>
-			<key>PayloadDisplayName</key>
-			<string>NGÔ TRÍ HÀ  - Locket</string>
-			<key>PayloadIdentifier</key>
-			<string>com.devcaovannam.controld.dnsprofile.8a922e</string>
-			<key>PayloadOrganization</key>
-			<string>No Block Ads</string>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadUUID</key>
-			<string>5C8A7F4B-6D1E-4A9C-8B3A-7F1E0C4A9D3F</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Chức năng:
-      ✔ Chặn mất Locket Gold
-      ✔ Giấy Bảo Hành
-      ✔ Cấm Xóa </string>
+	<string>💛 Nâng LOCKET GOLD
+             </string>
 	<key>PayloadDisplayName</key>
-	<string>NGÔ TRÍ HÀ  - DNS</string>
+	<string>Ngô Trí Hà</string>
 	<key>PayloadIdentifier</key>
-	<string>com.devcaovannam.profile.controld.doh.dual</string>
+	<string>com.camsitup.profile.controld.doh</string>
 	<key>PayloadOrganization</key>
-	<string>Học hỏi và vươn lên</string>
+	<string>LOCKET GOLD</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
